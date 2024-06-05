@@ -1,0 +1,56 @@
+body{
+    background-color: #191a2b;
+    color: white;
+}
+*{
+    border-color: #191a2b;
+   
+}
+.name{
+    position: relative;
+    left: 4cm;
+    width: 10cm;
+    padding: 0.2cm;
+    border-radius: 5px;
+}
+.email{
+    position: relative;
+    left: 4cm;
+    width: 10cm;
+    padding: 0.2cm;
+    border-radius: 5px;
+}
+.subject{
+    position: relative;
+    left: 4cm;
+    width: 10cm;
+    padding: 0.2cm;
+    border-radius: 5px;
+}
+.Message{
+    position: relative;
+    left: 4cm;
+    width: 10cm;
+    padding-bottom: 1.5cm;
+    border-radius: 5px;
+}
+.send{
+    width: 10cm;
+    padding: 0.2cm;
+    background-color: blue;
+}
+.Contact{
+    margin-right: 8cm;
+}
+.huhu
+
+{
+    background: green;
+}
+@media screen and (max-width:900px) {
+    *{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+} 

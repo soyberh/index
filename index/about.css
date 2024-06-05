@@ -1,0 +1,32 @@
+body{
+    background-color: #191a2b;
+    color: white;
+}
+img{
+    width: 4cm;
+    box-shadow: 1px 2px 5px 5px red;
+    border-radius: 500px;
+}
+button{
+    position: relative;
+    bottom: 3cm;
+    color: red;
+    padding: 0.3cm;
+    border-radius: 1cm;
+    box-shadow: 1px 2px 5px 5px black;
+    width: 5cm;
+}
+.b1{
+    background-color: red;
+    color: white;
+}
+h4{
+    position: relative;
+    bottom: 1cm;
+    right: 0.7cm;
+}
+h5{
+    position: relative;
+    bottom: 2cm;
+    left: 0.7cm;
+}
